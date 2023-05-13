@@ -51,4 +51,4 @@
 
 <p>This project was developed by [Team Work] as part of [Introduction to Embedded
 Systems/GPS Tracking System].</p>
-![323086192_497182695903379_5496473864024484540_n](https://github.com/waelmarwan7/GPS_TRACKING_SYSTEM/assets/91396631/23811426-191e-4a96-968f-07c8cbff358b)
+<img src=![323086192_497182695903379_5496473864024484540_n](https://github.com/waelmarwan7/GPS_TRACKING_SYSTEM/assets/91396631/23811426-191e-4a96-968f-07c8cbff358b)>
